@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/262302867767001454/29152c79ee3c4bfb8b8c658ddb66cb65/artifacts
+end_time: 1764264839472
+entry_point_name: ''
+experiment_id: '262302867767001454'
+lifecycle_stage: active
+run_id: 29152c79ee3c4bfb8b8c658ddb66cb65
+run_name: omniscient-kite-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764264816968
+status: 3
+tags: []
+user_id: uniab
