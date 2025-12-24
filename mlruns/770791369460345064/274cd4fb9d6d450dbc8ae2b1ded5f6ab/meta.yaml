@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/MLFlow-Pipeline-MLops/mlruns/770791369460345064/274cd4fb9d6d450dbc8ae2b1ded5f6ab/artifacts
+end_time: 1766578741748
+entry_point_name: ''
+experiment_id: '770791369460345064'
+lifecycle_stage: active
+run_id: 274cd4fb9d6d450dbc8ae2b1ded5f6ab
+run_name: bouncy-jay-481
+run_uuid: 274cd4fb9d6d450dbc8ae2b1ded5f6ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766578741520
+status: 3
+tags: []
+user_id: uniab

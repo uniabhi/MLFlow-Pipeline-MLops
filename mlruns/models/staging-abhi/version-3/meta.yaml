@@ -1,0 +1,15 @@
+creation_timestamp: 1766582124741
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1766582124741
+model_id: ''
+name: staging-abhi
+run_id: 2d134dc8233948f380cacd01aeef6f6b
+run_link: ''
+source: models:/staging-abhi/1
+status: READY
+status_message: null
+storage_location: runs:/2d134dc8233948f380cacd01aeef6f6b/random_forest
+user_id: null
+version: 3

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/MLFlow-Pipeline-MLops/mlruns/770791369460345064/8276a4764bff40c1b5560b6abb2baf0c/artifacts
+end_time: 1766578740641
+entry_point_name: ''
+experiment_id: '770791369460345064'
+lifecycle_stage: active
+run_id: 8276a4764bff40c1b5560b6abb2baf0c
+run_name: mysterious-croc-845
+run_uuid: 8276a4764bff40c1b5560b6abb2baf0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766578740446
+status: 3
+tags: []
+user_id: uniab

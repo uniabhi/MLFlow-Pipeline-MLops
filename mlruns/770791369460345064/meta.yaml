@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/MLFlow-Pipeline-MLops/mlruns/770791369460345064
+creation_time: 1766578709302
+experiment_id: '770791369460345064'
+last_update_time: 1766578709302
+lifecycle_stage: active
+name: breast-cancer-rf-hyper parameter

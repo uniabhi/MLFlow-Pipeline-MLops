@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/MLFlow-Pipeline-MLops/mlruns/315876459467835242/162c4e2e7e93497ba0335d3724da58a7/artifacts
+end_time: 1766578010320
+entry_point_name: ''
+experiment_id: '315876459467835242'
+lifecycle_stage: active
+run_id: 162c4e2e7e93497ba0335d3724da58a7
+run_name: nebulous-bee-405
+run_uuid: 162c4e2e7e93497ba0335d3724da58a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766577975405
+status: 3
+tags: []
+user_id: uniab

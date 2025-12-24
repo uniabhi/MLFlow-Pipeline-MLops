@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/MLFlow-Pipeline-MLops/mlruns/770791369460345064/2d134dc8233948f380cacd01aeef6f6b/artifacts
+end_time: 1766578778157
+entry_point_name: ''
+experiment_id: '770791369460345064'
+lifecycle_stage: active
+run_id: 2d134dc8233948f380cacd01aeef6f6b
+run_name: illustrious-snake-89
+run_uuid: 2d134dc8233948f380cacd01aeef6f6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766578712818
+status: 3
+tags: []
+user_id: uniab

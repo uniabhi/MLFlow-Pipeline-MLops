@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/uniab/MLOPS/150-DAYS-MLOPS/MLFlow-Pipeline-MLops/mlruns/770791369460345064/6f11b96d232440cf8c07b68e105d40cd/artifacts
+end_time: 1766578740904
+entry_point_name: ''
+experiment_id: '770791369460345064'
+lifecycle_stage: active
+run_id: 6f11b96d232440cf8c07b68e105d40cd
+run_name: luxuriant-foal-261
+run_uuid: 6f11b96d232440cf8c07b68e105d40cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766578740691
+status: 3
+tags: []
+user_id: uniab
